@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": "1,42,50,00,000",
+    "interestingFact": "China has the world's largest high-speed rail network, covering over 38,000 kilometers."
+  },
+  {
+    "id": "2",
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": "1,41,70,00,000",
+    "interestingFact": "India is home to the world's second-largest film industry, known as Bollywood, producing over 1,000 films annually."
+  },
+  {
+    "id": "3",
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": "33,90,00,000",
+    "interestingFact": "The U.S. has the largest economy in the world, driven by a diverse range of industries."
+  },
+  {
+    "id": "4",
+    "countryName": "Indonesia",
+    "capital": "Jakarta",
+    "population": "27,70,00,000",
+    "interestingFact": "Indonesia is the world's largest archipelago, consisting of over 17,000 islands."
+  },
+  {
+    "id": "5",
+    "countryName": "Pakistan",
+    "capital": "Islamabad",
+    "population": "1,42,50,00,000",
+    "interestingFact": "Pakistan is home to the world's second-highest mountain, K2, which is part of the Karakoram range."
+  },
+  {
+    "id": "6",
+    "countryName": "Nigeria",
+    "capital": "Abuja",
+    "population": "22,40,00,000",
+    "interestingFact": "Nigeria has the largest economy in Africa, largely driven by oil production and agriculture."
+  },
+  {
+    "id": "7",
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": "21,60,00,000",
+    "interestingFact": "Brazil is famous for the Amazon Rainforest, which is the largest tropical rainforest in the world."
+  },
+  {
+    "id": "8",
+    "countryName": "Bangladesh",
+    "capital": "Dhaka",
+    "population": "17,20,00,000",
+    "interestingFact": "Bangladesh is known for its rich cultural heritage, particularly in textiles, being one of the largest garment exporters in the world."
+  },
+  {
+    "id": "9",
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": "14,60,00,000",
+    "interestingFact": "Russia is the largest country in the world by land area, spanning 11 time zones."
+  },
+  {
+    "id": "10",
+    "countryName": "Mexico",
+    "capital": "Mexico City",
+    "population": "12,80,00,000",
+    "interestingFact": "Mexico City is built on the ruins of Tenochtitlan, the ancient capital of the Aztec Empire."
+  }
+]

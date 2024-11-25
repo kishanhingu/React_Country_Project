@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "IoCall",
+    "title": "Contact us",
+    "details": "+91 9724070694"
+  },
+  {
+    "icon": "FaMapLocationDot",
+    "title": "Find us",
+    "details": "Surat,Gujarat"
+  },
+  {
+    "icon": "LuMailPlus",
+    "title": "Mail To",
+    "details": "hingukishan66@gmail.com"
+  }
+]
